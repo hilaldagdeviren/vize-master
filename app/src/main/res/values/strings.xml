@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vize</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="find_location">Show nearby venues</string>
+
+
+</resources>
